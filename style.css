@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background: #dcdcdc;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Russo One', sans-serif;
+    margin-bottom: 0;
+    text-transform: uppercase;
+  }
+h3 {
+  font-family: 'Roboto', sans-serif;
+}
+  img {
+    display: block; 
+    height: auto;
+    margin: 0 auto;
+    max-width: 100%;
+}
+#img-caption {
+  font-family: 'Martel', serif;
+  font-weight: bold;
+}
